@@ -1,0 +1,3 @@
+name: CrossChat
+version: ${project.version}
+main: lubdan.crosschat.CrossChat
